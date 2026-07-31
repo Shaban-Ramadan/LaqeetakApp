@@ -1,4 +1,4 @@
-#  Laqeetak (لقيتك)
+#  LaqeetakApp (لقيتك)
 
 Laqeetak is a Flutter-based Lost & Found application designed to simplify the process of reporting and recovering lost belongings. The app provides a secure and organized platform where users can report lost or found items, upload images, specify locations, and search for matching reports.
 Its primary goal is to reconnect people with their lost possessions while promoting community collaboration through an easy-to-use mobile application.
