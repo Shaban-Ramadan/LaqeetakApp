@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "557031778224",
+    "project_id": "laqeetak-app",
+    "storage_bucket": "laqeetak-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557031778224:android:fa564f9b03e166136c1875",
+        "android_client_info": {
+          "package_name": "com.example.laqeetak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6DxhO_M5IwFBdfCFlz3gKvg6tbIkg3eY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
