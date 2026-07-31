@@ -64,3 +64,31 @@ The application follows the **MVVM (Model–View–ViewModel)** architecture to 
 ### Media & Utilities
 . image_picker
 . cached_network_image
+
+## 📸 Screenshots
+
+### Splash
+![](screenshots/splash.jpg)
+
+### Onboarding
+![](screenshots/onboarding1.png)
+### Login
+![](screenshots/login.png)
+### Home
+![](screenshots/home_page.png)
+
+### Found Item
+![](screenshots/find_item.png)
+
+### Item Details
+![](screenshots/details_item.png)
+
+### Repot
+![](screenshots/report_page.png)
+
+### User Posts
+![](screenshots/user_posts.png)
+
+### Profile
+![](screenshots/user_profile.png)
+
